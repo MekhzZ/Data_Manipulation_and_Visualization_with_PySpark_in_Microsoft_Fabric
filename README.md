@@ -13,8 +13,8 @@ Additionally, I’ve included a certificate of completion (PDF) to highlight my 
 - Completion Certificate: A PDF documenting the completion of the "Use Apache Spark in Microsoft Fabric" module.
 
 ## Files in This Repository
-- pyspark_data_analysis.ipynb: The main notebook used for learning and experimentation.
-- Microsoft_Fabric_Module_Completion.pdf: Certificate of completion for the module.
+- Sales_Order_Analysis.ipynb: The main notebook used for learning and experimentation.
+- Certification_Apache_Spark.png: Certificate of completion for the module.
 
 ## Key Learnings
 - How to use PySpark for scalable data manipulation and analysis.
